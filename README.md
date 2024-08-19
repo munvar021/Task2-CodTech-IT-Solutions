@@ -1,8 +1,8 @@
 # Finite State Machine Design
 
-**Name:** Shaik Khasim Shareef  
-**Company:** CODETECH IT SOLUTIONS  
-**ID:** CT12DS2112  
+*Name:* Shaik Munvar Khajavali  
+*Company:* CODETECH IT SOLUTIONS  
+*ID:* CT12DS2143  
 **Domain:** VLSI  
 **Duration:** August 5th to October 5th, 2024
 
