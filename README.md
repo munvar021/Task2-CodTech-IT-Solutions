@@ -4,7 +4,7 @@
 *Company:* CODETECH IT SOLUTIONS  
 *ID:* CT12DS2143  
 **Domain:** VLSI  
-**Duration:** August 5th to October 5th, 2024
+**Duration:** August 10th to October 10th, 2024
 
 ## Overview of the Project
 
